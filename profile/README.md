@@ -29,7 +29,7 @@ Here is a list of Projects under JS-Cloud
 ## MailMan
 A superfast and light-weight message broker for pub/sub communication over network. Suitable for real-time low latency applications and intra-service communication.
 
-Links: -[NPM]() - [Repo](https://github.com/jscloud-org/MailMan) - [issues](https://github.com/jscloud-org/MailMan/issues)
+Links:  - [issues](https://github.com/jscloud-org/MailMan/issues)
 
 ## FlashQ
 A superfast and lightweight Queue (FIFO) implementations in JavaScript.
@@ -39,7 +39,7 @@ Links: -[NPM](https://www.npmjs.com/package/@js-cloud/flashq) - [Repo](https://g
 ## Photon
 A fast and lightweight library for Web socket communication
 
-Links: -[NPM](https://www.npmjs.com/package/@js-cloud/flashq) - [Repo](https://github.com/jscloud-org/photon) - [issues](https://github.com/jscloud-org/photon/issues)
+Links: - [Repo](https://github.com/jscloud-org/photon) - [issues](https://github.com/jscloud-org/photon/issues)
 
 ## Connect with Me
 
